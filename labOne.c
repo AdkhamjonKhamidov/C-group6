@@ -4,6 +4,7 @@
 int largestNumber (int a, int b, int c); // function prototype
 int smallestNumber (int a, int b, int c); // function prototype
 
+
 // main function    
 int main() {
     int a, b, c; // declare three integers
