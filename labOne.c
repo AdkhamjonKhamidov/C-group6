@@ -18,7 +18,7 @@ int main() {
     }
     return 0; 
 }
-
+// function to take three ints and return the largest by comparing them
 int largestNumber (int a, int b, int c) {
     int large = a;
     if (b > large && b > c) {
@@ -35,7 +35,7 @@ int largestNumber (int a, int b, int c) {
     }
     
 }
-
+// function to take three ints and return the smallest by comparing them
 int smallestNumber (int a, int b, int c) {
     int small = a; 
     if (b< small && b < c) {
